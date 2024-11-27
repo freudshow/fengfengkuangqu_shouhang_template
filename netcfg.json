@@ -136,12 +136,12 @@
         },
         {
           "linkno": 7,
-          "mode": 0,
-          "ipaddr": "192.168.1.10",
+          "mode": 131,
+          "ipaddr": "172.33.1.2",
           "LocalPort": 0,
-          "RemotePort": 1000,
-          "SocketChannelNo": 8,
-          "NetChannelNo": 3,
+          "RemotePort": 2404,
+          "SocketChannelNo": 0,
+          "NetChannelNo": 13,
           "TcpServerSet": null
         },
         {
@@ -166,12 +166,12 @@
         },
         {
           "linkno": 10,
-          "mode": 131,
-          "ipaddr": "172.33.1.2",
+          "mode": 0,
+          "ipaddr": "192.168.1.10",
           "LocalPort": 0,
-          "RemotePort": 2404,
-          "SocketChannelNo": 0,
-          "NetChannelNo": 13,
+          "RemotePort": 1000,
+          "SocketChannelNo": 8,
+          "NetChannelNo": 3,
           "TcpServerSet": null
         },
         {
