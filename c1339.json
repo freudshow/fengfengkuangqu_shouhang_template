@@ -5,7 +5,7 @@
       "PortType": 13,
       "devNo": 0,
       "RegNo": 0,
-      "OverTime": 300,
+      "OverTime": 30,
       "mode": 2,
       "Reset": 1
     }
